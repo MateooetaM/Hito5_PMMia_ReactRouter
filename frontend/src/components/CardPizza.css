@@ -1,0 +1,10 @@
+ul {
+  list-style-type: none;
+}
+.images {
+  height: 250px;
+  width: auto;
+}
+.card {
+  height: 450px;
+}
