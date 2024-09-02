@@ -7,8 +7,8 @@ const Navbar = () => {
   const token = false;
 
   return (
-    <nav className="navbar">
-      <div className="nav-elements">
+    <nav className="navbar ">
+      <div className="nav-elements container-fluid">
         <h1 class="fs-5 text-light">¡Pizzería Mamma Mia!</h1>
         <div className="nav-button">
           <Link class="btn btn-outline-light" to="/">

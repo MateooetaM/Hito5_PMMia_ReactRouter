@@ -2,9 +2,10 @@ import React from "react";
 
 const Profile = () => {
   return (
-    <div>
+    <div className="container mt-5">
       <h1>Profile</h1>
-      <h5>Agregar un correo de cliente y un boton para "cerrar sesion"</h5>
+      <h5>Email: cliente@gmail.com</h5>
+      <button className="btn btn-danger">Cerrar sesion</button>
     </div>
   );
 };
